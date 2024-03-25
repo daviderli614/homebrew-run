@@ -1,6 +1,6 @@
 # Homebrew
 
-This tap provides Homebrew formulas for the greptime and gtctl utilities.
+This tap provides Homebrew formulas for the greptime utilities.
 
 ## Installation
 
