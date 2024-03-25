@@ -1,8 +1,7 @@
 class Greptime < Formula
   desc "An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported."
   homepage "https://github.com/GreptimeTeam/greptimedb"
-  version File.read("version.txt").strip
-
+  version v0.7.0
   VERSION = File.read("version.txt").strip
 
   if Hardware::CPU.intel?
