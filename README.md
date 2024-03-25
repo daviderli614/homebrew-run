@@ -13,3 +13,8 @@ Then, you can install `greptime`:
 ```console
 brew install greptime
 ```
+
+## Remove
+```console
+brew untap greptimeteam/greptime
+```
