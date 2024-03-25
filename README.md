@@ -1,4 +1,4 @@
-# Homebrew Greptime
+# Homebrew
 
 This tap provides Homebrew formulas for the greptime and gtctl utilities.
 
@@ -8,9 +8,8 @@ This tap provides Homebrew formulas for the greptime and gtctl utilities.
 brew tap daviderli614/greptime
 ```
 
-Then, you can install `greptime` or `gtctl`:
+Then, you can install `greptime`:
 
 ```console
 brew install greptime
-brew install gtctl
 ```
