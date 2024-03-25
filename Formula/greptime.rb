@@ -14,6 +14,6 @@ class Greptime < Formula
   end
 
   def install
-    bin.install "greptimedb"
+    bin.install "greptime"
   end
 end
