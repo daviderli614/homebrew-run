@@ -16,5 +16,6 @@ brew install greptime
 
 ## Remove
 ```console
-brew untap greptimeteam/greptime
+brew cleanup greptime
+brew untap daviderli614/greptime
 ```
