@@ -5,17 +5,17 @@ This tap provides Homebrew formulas for the greptime utilities.
 ## Installation
 
 ```console
-brew tap daviderli614/greptime
+brew tap daviderli614/gtdb
 ```
 
-Then, you can install `greptime`:
+Then, you can install `gtdb`:
 
 ```console
-brew install greptime
+brew install gtdb
 ```
 
 ## Remove
 ```console
-brew cleanup greptime
-brew untap daviderli614/greptime
+brew cleanup gtdb
+brew untap daviderli614/gtdb
 ```
